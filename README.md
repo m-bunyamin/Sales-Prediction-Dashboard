@@ -25,7 +25,7 @@ This project predicts weekly sales using machine learning and displays results u
 # ▶️ How to Run the Project
 
 ## 1. Clone the repository
-git clone https://github.com/m_bunyamin/Sales-Prediction-Dashboarb.git
+git clone https://github.com/m-bunyamin/Sales-Prediction-Dashboard.git
 cd Sales-Prediction-Dashboard
 
 ## 2. Install dependencies
